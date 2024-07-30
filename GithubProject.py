@@ -1,5 +1,5 @@
-#  Covert Image To Text Project (My Code) :
-#     Tkinter, Customtkinter, Pil, Pytesseract, Googletrans Package :
+    # Covert Image To Text Project :
+    # Tkinter, Customtkinter, Pil, Pytesseract, Googletrans Package :
     
 import tkinter as tk
 from customtkinter import *
